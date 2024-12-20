@@ -15,7 +15,7 @@ const content = document.querySelector('#comment-content').value.trim();
       });
   
       if (response.ok) {
-        document.location.replace('/profile');
+        document.location.reload();
       } else {
         alert('Failed to comment on the post');
       }
