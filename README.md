@@ -16,3 +16,7 @@ Logout - Users will be logged out after a certain point of inactivity.
 5. Render
 
 ## Screenshots
+<img width="1512" alt="Homepage" src="https://github.com/user-attachments/assets/f333cedd-a1d6-431d-b0ad-d673935c05a1" />
+<img width="1512" alt="Signup" src="https://github.com/user-attachments/assets/605c1810-ba68-4db5-be4f-6f415c103aab" />
+<img width="1512" alt="Profile" src="https://github.com/user-attachments/assets/d662fc33-e4e8-4fe0-9391-e78888e805ba" />
+<img width="1512" alt="PostComment" src="https://github.com/user-attachments/assets/663222e8-dc7b-43f0-933f-a8b7853dba0d" />
