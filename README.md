@@ -52,7 +52,7 @@ The app offers smooth navigation, personalized experiences, and a secure authent
     npm start
     ```
 6. **Access the Application:** Open your browser and navigate to
-    * [http://localhost:3000](http://localhost:3000)
+    * [http://localhost:3001](http://localhost:3001)
 
 ## Links
 [Home](https://github.com/san1718/mc14_TheBlogSpacer)
