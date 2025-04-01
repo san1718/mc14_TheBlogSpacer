@@ -29,6 +29,7 @@ The app offers smooth navigation, personalized experiences, and a secure authent
 - **Render:** Platform used for deploying the application.
 
 ## Installation / Usage
+For local: 
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/san1718/mc14_TheBlogSpacer
